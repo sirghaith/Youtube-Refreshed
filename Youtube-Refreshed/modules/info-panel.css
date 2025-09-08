@@ -1,4 +1,5 @@
-@-moz-document url-prefix(youtube.com) {
+@-moz-document domain("https://youtube.com/")
+{
   #top-row.ytd-watch-metadata {
     display: block;
   }
