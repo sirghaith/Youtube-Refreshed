@@ -1,3 +1,5 @@
-#top-row {
-  display: block;
+@-moz-document url-prefix(youtube.com) {
+  #top-row {
+    display: block;
+  }
 }
