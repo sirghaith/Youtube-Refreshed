@@ -1,5 +1,5 @@
 @-moz-document url-prefix(youtube.com) {
-  #top-row {
+  #top-row.ytd-watch-metadata {
     display: block;
   }
 }
