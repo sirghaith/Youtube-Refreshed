@@ -1,6 +1,6 @@
 @-moz-document domain("https://youtube.com/")
 {
-  div[id*="top-row"] {
-    display: none !important;
+  #top-row.ytd-watch-metadata {
+    display: block !important;
   }
 }
