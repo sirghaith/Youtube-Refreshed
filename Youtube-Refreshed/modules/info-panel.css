@@ -1,6 +1,6 @@
 @-moz-document domain("https://youtube.com/")
 {
   div[id*="top-row"] {
-    display: none;
+    display: none !important;
   }
 }
